@@ -1,1 +1,1 @@
-Valor = input("KOE")
+Valor = input("teste")
