@@ -1,1 +1,0 @@
-joao é corno
