@@ -1,5 +1,3 @@
-
-
 def maior_elemento(maior_numero):
 	maior_numero = max(numero)
 	print (maior_numero)
@@ -17,7 +15,6 @@ while True:
 	numero.append(outronome)
 	cont += 1
 	print (numero)
-
 maior_elemento(numero)
 media_elemento(numero)
 
